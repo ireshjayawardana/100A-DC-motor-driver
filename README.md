@@ -19,3 +19,7 @@ Terminal wire connectors are used for power in and out, but are not rated above 
 
 ![image](https://github.com/user-attachments/assets/81717fb8-493c-4f36-b39a-f346f080962d)
 3D modal of the layout - bottom
+
+Use case - International future energy challenge 2020 - best participant award
+video demonstration - https://drive.google.com/file/d/1KCNZwbfYyB2SS2QFnANqthyECo4qD7X-/view
+![image](https://github.com/user-attachments/assets/1c03d337-5f0f-4506-a1dc-b85fe6a594a2)
